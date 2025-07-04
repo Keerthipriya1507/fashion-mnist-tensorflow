@@ -1,0 +1,17 @@
+🛠 Future Improvements
+Add CNN layers for higher accuracy
+Deploy the model using Streamlit or Flask
+
+
+✅ Minimum content:
+tensorflow
+numpy
+matplotlib
+
+
+✅ Minimum content:
+tensorflow
+numpy
+matplotlib
+
+
